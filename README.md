@@ -1,6 +1,6 @@
 # Multithread 遊戲
-使用ncurses library實作遊戲介面
-使用multithread 實作遊戲的各種功能
+-使用ncurses library實作遊戲介面
+-使用multithread 實作遊戲的各種功能
 
 # 遊戲規則:
 - 使用上下左右鍵控制飛船
